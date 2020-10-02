@@ -1,4 +1,4 @@
-// try out this code for codechef question
+// This code for codechef question
 try:
     t = int(input())
     for i in range(t):
